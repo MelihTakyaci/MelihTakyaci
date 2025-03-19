@@ -24,6 +24,5 @@ Take a look at some of my latest work:
 🚀 **Let's Connect**  
 - 🌍 [Portfolio](https://melihtakyaci.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/melih-takyaci)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
 
 ✨ _Open to collaborations and new challenges! Feel free to reach out._
