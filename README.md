@@ -42,8 +42,6 @@ Take a look at some of my latest work:
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MelihTakyaci&theme=dark&hide_border=true)
 
-## 🎨 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelihTakyaci&layout=compact&theme=dark)
 
 ## 🌍 Let's Connect
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=react)](https://melihtakyaci.com)
