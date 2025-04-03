@@ -40,7 +40,7 @@ Take a look at some of my latest work:
 </table>
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MelihTakyaci&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MelihTakyaci&theme=tokyonight&mode=png)
 
 
 ## 🌍 Let's Connect
