@@ -26,6 +26,7 @@ Take a look at some of my latest work:
 - 🔹 [NFC Card Website](https://github.com/MelihTakyaci/NFC-card-website) – Digital NFC business card platform
 - 🔹 [Ecommerce](https://github.com/MelihTakyaci/Ecommerce) – A fully functional e-commerce site
 - 🔹 [Mint-Message](https://github.com/MelihTakyaci/Mint-Message) – A real-time messaging app
+- 🔹 [Hand Mouse](https://github.com/MelihTakyaci/handmouse) – OpenCv Python app
 
 ## 📊 GitHub Stats
 <table>
