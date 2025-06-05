@@ -35,7 +35,7 @@ Take a look at some of my latest work:
       <img src="https://github-readme-stats.vercel.app/api?username=MelihTakyaci&show_icons=true&theme=tokyonight" />
     </td>
     <td>
-      <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MelihTakyaci&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=MelihTakyaci&layout=compact&langs_count=12&theme=tokyonight)" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihTakyaci&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=MelihTakyaci&layout=compact&langs_count=12&theme=tokyonight" />
     </td>
   </tr>
 </table>
