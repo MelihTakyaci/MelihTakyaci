@@ -1,4 +1,4 @@
-# Hi there, I'm Melih Takyaci! 👋
+# Hi there, I'm Melih! 👋
 
 <img src="#" alt="Melih Takyaci - Full Stack Developer" width="100%"/>
 
