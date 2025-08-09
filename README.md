@@ -1,6 +1,5 @@
 # Hi there, I'm Melih! 👋
 
-<img src="#" alt="Melih Takyaci - Full Stack Developer" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79F1F&width=435&lines=Hello%2C+I'm+Melih+Takyaci!;I+love+coding!;Building+with+React%2C+Next.js+%26+Nest.js!)](https://melihtakyaci.com)
 
