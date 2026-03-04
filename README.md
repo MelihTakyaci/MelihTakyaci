@@ -29,10 +29,25 @@ When I'm not studying at DEU, you'll find me working on:
 💳 NFC Card Platform: Bringing networking into the digital age.
 
 📊 My GitHub Journey
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MelihTakyaci&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihTakyaci&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+<table>
+
+  <tr>
+
+    <td>
+
+      <img src="https://github-readme-stats.vercel.app/api?username=MelihTakyaci&show_icons=true&theme=tokyonight" />
+
+    </td>
+
+    <td>
+
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihTakyaci&layout=compact&langs_count=12&theme=tokyonight" />
+
+    </td>
+
+  </tr>
+
+</table>
 
 🌍 Let's Connect!
 I’m always open to collab on open-source projects, talk about tech, or just grab a coffee and chat about the latest in JS.
