@@ -1,6 +1,6 @@
 Hey, I'm Melih! 👋
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F79F1F&width=435&lines=Building+awesome+stuff...;Solving+problems+with+code.;Full-stack+Explorer;Data Science" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F79F1F&width=435&lines=Building+awesome+stuff...;Solving+problems+with+code.;Full-stack+Explorer;Data Science; alt="Typing SVG" />
 </p>
 
 👨‍💻 A Little Bit About Me
