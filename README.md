@@ -1,51 +1,44 @@
-# Hi there, I'm Melih! 👋
+Hey, I'm Melih! 👋
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F79F1F&width=435&lines=Building+awesome+stuff...;Solving+problems+with+code.;Full-stack+Explorer;CS+@+Dokuz+Eylul+University" alt="Typing SVG" />
+</p>
 
+👨‍💻 A Little Bit About Me
+I'm a Computer Science student from Kosovo, currently based in Turkey. I don't just write code—I love the process of turning a blank editor into a functional, high-performance application. Whether it's a sleek frontend or a robust backend, I’m always down for building cool stuff that actually makes an impact.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79F1F&width=435&lines=Hello%2C+I'm+Melih+Takyaci!;I+love+coding!;Building+with+React%2C+Next.js+%26+Nest.js!)](https://melihtakyaci.com)
+Right now, I'm diving deep into the Next.js & Nest.js ecosystem, making sure my apps are as scalable as they are fast.
 
-## 📌 About Me
-I'm Melih Takyaci, born in **Kosovo** and currently studying **Computer Science** at **Dokuz Eylul University** in Turkey. Passionate about modern web technologies, I specialize in building scalable and high-performance applications.
+🚀 What I'm Cooking With
+I’m a big fan of the TypeScript ecosystem. Here’s my go-to stack:
 
-## 🚀 What I Do
-I work extensively with:
-- ⚛️ **React.js** – Modern front-end development
-- 🚀 **Next.js** – SSR, SSG & optimized React applications
-- 🏗 **Nest.js** – Scalable and maintainable backend services
-- 💾 **PostgreSQL & MongoDB** – Database management
-- 🖥 **TypeScript & JavaScript** – Writing clean, type-safe code
+Frontend: Crafting interfaces with React.js and Next.js (loving the speed of SSR!).
 
-## 🎯 My Interests
-- 🖥 **Full-Stack Web Development** – Creating powerful web applications
-- 🔍 **Backend Systems & API Development** – Scalable and efficient API designs
-- 📈 **Data Science & Analytics** – Working with data-driven applications
-- 🌍 **Open Source Contributions** – Collaborating with the developer community
+Backend: Building solid services with Nest.js and Node.js.
 
-## 🌟 Pinned Projects
-Take a look at some of my latest work:
-- 🔹 [NFC Card Website](https://github.com/MelihTakyaci/NFC-card-website) – Digital NFC business card platform
-- 🔹 [Ecommerce](https://github.com/MelihTakyaci/Ecommerce) – A fully functional e-commerce site
-- 🔹 [Mint-Message](https://github.com/MelihTakyaci/Mint-Message) – A real-time messaging app
-- 🔹 [Hand Mouse](https://github.com/MelihTakyaci/handmouse) – OpenCv Python app
+Data: Managing everything through PostgreSQL and MongoDB.
 
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MelihTakyaci&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihTakyaci&layout=compact&langs_count=12&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+And more: Always experimenting with OpenCV (Python) for some vision-related magic.
 
-## 🔥 GitHub Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MelihTakyaci&theme=tokyonight&mode=png)
+🌟 Current Highlights
+When I'm not studying at DEU, you'll find me working on:
 
+💬 Mint-Message: My take on real-time communication.
 
-## 🌍 Let's Connect
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&logo=react)](https://melihtakyaci.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/melih-takyaci)
+🖐️ Hand Mouse: Controlling my PC with hand gestures (OpenCV is wild!).
 
-✨ _Open to collaborations and new challenges! Feel free to reach out._
+💳 NFC Card Platform: Bringing networking into the digital age.
 
+📊 My GitHub Journey
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=MelihTakyaci&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihTakyaci&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+🌍 Let's Connect!
+I’m always open to collab on open-source projects, talk about tech, or just grab a coffee and chat about the latest in JS.
+
+<p align="left">
+<a href="https://melihtakyaci.com"><img src="https://img.shields.io/badge/-Portfolio-FF4088?style=flat-square&logo=react&logoColor=white" /></a>
+<a href="https://linkedin.com/in/melih-takyaci"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" /></a>
+<a href="mailto:melihtakyaci6@icloud.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
